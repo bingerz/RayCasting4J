@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RayCasting4J</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Access Token -->
+    <string name="mapBoxStreetMapId">mapbox.streets</string>
+    <string name="mapBoxAccessToken">pk.eyJ1IjoianVuaW9yZ2VlayIsImEiOiI2YmY2ZmU5YTA1MjgzN2IwNDU4MWI1OGIyNDllNjI1OCJ9.kqXkqxyM0E4Os51PqEi8ww</string>
+
+</resources>
