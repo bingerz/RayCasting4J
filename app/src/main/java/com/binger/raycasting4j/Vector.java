@@ -1,7 +1,7 @@
 package com.binger.raycasting4j;
 
 /**
- * Created by hanbing on 15/9/23.
+ * Created by binger on 15/9/23.
  */
 public class Vector {
 

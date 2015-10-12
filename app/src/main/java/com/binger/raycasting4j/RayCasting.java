@@ -3,7 +3,7 @@ package com.binger.raycasting4j;
 import java.util.ArrayList;
 
 /**
- * Created by hanbing on 15/9/23.
+ * Created by binger on 15/9/23.
  * Ray-Casting 算法，判断某点是否在任意多变形内部还是外部
  * 此多边形可以是凸多边形也可以是凹多边形
  */
